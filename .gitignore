@@ -1,0 +1,17 @@
+/dist
+/.idea/
+s*.py
+t*.py
+p*.py
+.gitinore
+.gitignore/
+b*.py
+[m,n,w]*.py
+
+d*.py
+i*.py
+gen*.py
+c[l,o]*.py
+__*
+[\,3,2]*
+[",\,3,2]*
