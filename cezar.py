@@ -1,4 +1,4 @@
-
+#add changes user007
 whats_direction = input('Что мы должны сделать: шифровать или дешифровать? \n').lower()
 while whats_direction != 'шифровать' and whats_direction != 'дешифровать':
     whats_direction = input('Что-то не то ты ввёл. Напиши "шифровать" либо "дешифровать". \n').lower()
